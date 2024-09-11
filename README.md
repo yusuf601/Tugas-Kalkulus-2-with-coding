@@ -8,6 +8,7 @@
 *cara penggunaaan:*
 - buka file nomor (1-6).cpp 
 - compile di compiler cpp online
+
 **CATATAN PENTING**
 *Saya mengetahui bahwa cara saya melakukan plotting cukup susah di baca jika anda membutuhkan hasil plot yg memadai dan memiliki tingkat keterbacaan yang tinggi anda saya menyarankan untuk memakai geogebra*
 *geogebra :* 
