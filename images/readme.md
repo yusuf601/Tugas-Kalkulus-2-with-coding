@@ -23,8 +23,8 @@
 ![gambar 4](/images/Nomor%204%20Desmos.png)
 
 ## Nomor 5
-- Desmos
-![Gambar 5](/images/Nomor%205%20Desmos.png)
+- Geogebra
+![Gambar 5](/images/Nomor%205%20Geogebra.png)
 
 ## Gambar 6
 - Geogebra
