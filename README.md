@@ -9,12 +9,9 @@
 - buka file numer checker function.cpp 
 - compile di compiler cpp online
 
+# Semua Gambar Grafik ada di folder images
 **CATATAN PENTING**
 
-*Saya mengetahui bahwa cara saya melakukan plotting cukup susah di baca jika anda membutuhkan hasil plot yg memadai dan memiliki tingkat keterbacaan yang tinggi anda saya menyarankan untuk memakai geogebra*
-*geogebra :* 
-*https://www.geogebra.org/graphing?lang=en/*
-*Untuk melihat visualisai range dan domain yang lebih jelas anda dapat melihat di:https://www.geogebra.org/m/mw8jt95e*
 
 ## JIKA ANDA MENYUKAI SOLUSI INI ANDA DAPAT MEMBERIKAN SAYA STAR
 
